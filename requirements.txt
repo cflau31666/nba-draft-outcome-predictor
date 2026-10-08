@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+nba_api
+sqlalchemy
+psycopg2-binary
+requests
+ipykernel
